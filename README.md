@@ -1,18 +1,13 @@
 # SALES_ANALYSIS_POWERBI
-Description:
-Developed an interactive Power BI dashboard to analyze and visualize Amazon product sales performance. The dashboard provides a comprehensive overview of key performance indicators (KPIs) such as year-to-date (YTD) and quarter-to-date (QTD) sales, product performance, and customer reviews — enabling data-driven insights into sales trends and category-wise performance.
+# Project Title:
+# SALES_ANALYSIS_POWERBI
 
-Key Features:
 
-Displayed KPIs for YTD Sales, QTD Sales, Products Sold, and Customer Reviews.   
-Created trend analysis charts for monthly and weekly sales performance.
-Visualized category-wise sales and revenue contribution with detailed breakdowns.
-Highlighted top 5 products by YTD Sales and YTD Reviews to identify bet performers.
-Integrated interactive slicers for filtering by product and quarter.
-Used dark-themed layout with professional design for clear visualization and presentation.
+# Description
+This project presents a comprehensive analysis of Vrinda Store’s e-commerce sales performance for the year 2022. The insights are visualized through interactive dashboards built in Microsoft Excel, showcasing trends, customer demographics, and order patterns that help drive data-driven decisions.
 
-Tools & Skills Used:
-Power BI, DAX, Power Query, Data Modeling, Data Cleaning, Data Visualization, Business Intelligence, KPI Design.
 
-Outcome:
-Delivered a visually appealing and data-driven dashboard that helps management track sales performance, monitor product trends, and make informed business decisions to improve profitability and customer satisfaction.
+# Output Screenshot
+<img width="1325" height="742" alt="Screenshot 2025-11-09 141038" src="https://github.com/user-attachments/assets/66c1325d-e185-44ac-8a99-a465e128d50e" />
+
+.
