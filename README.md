@@ -21,19 +21,19 @@ Amazon Product Sales Dataset (Excel/CSV)
 
 
 # Key Features (Well Explained)
-## 1. YTD & QTD Sales Overview
+### 1. YTD & QTD Sales Overview
 Shows how much revenue has been generated so far in the year and the current quarter, helping track performance against targets. <br />
-## 2. Monthly & Weekly Sales Trends
+### 2. Monthly & Weekly Sales Trends
 Line charts showing how sales change month-to-month and week-to-week, helping identify seasonal patterns and sales spikes. <br />
-## 3. Category-wise Sales Performance
+### 3. Category-wise Sales Performance
 Breakdown of total YTD and QTD sales by product category to identify which categories are performing the best. <br /> 
-## 4. Top 5 Products by Sales
+### 4. Top 5 Products by Sales
 Highlights the highest revenue-generating products, allowing quick identification of best-selling items. <br />
-## 5. Top 5 Products by Reviews
+### 5. Top 5 Products by Reviews
 Shows the products with the highest customer engagement, indicating popularity and customer satisfaction levels. <br />
-## 6. Interactive Filters (Product, Quarter)
+### 6. Interactive Filters (Product, Quarter)
 Users can filter the entire dashboard by product or quarter to view deeper and more customized insights. <br />
-## 7. Clean and Professional UI
+### 7. Clean and Professional UI
 A modern, dark-themed dashboard layout with neat visuals, KPI cards, and easy navigation for better user experience. <br />
 
 
