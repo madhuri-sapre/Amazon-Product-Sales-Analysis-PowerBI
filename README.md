@@ -12,8 +12,8 @@ It helps analyze sales trends, category-wise performance, and top-selling produc
 
 
 # Tools Used
-Power BI – Data modeling & dashboard design
-Excel – Data cleaning & preprocessing
+Power BI – Data modeling & dashboard design <br />
+Excel – Data cleaning & preprocessing <br />
 
 
 # Dataset Source
@@ -45,11 +45,9 @@ Created a Date Table <br />
 Performed Power Query transformations <br />
 Built relationships between tables <br />
 
-
 ## 2. Data Modeling
 Applied Star Schema <br />
 Created Fact (Sales) and Dimension (Products, Date) tables <br />
-
 
 ## 3. DAX Measures
 YTD Sales <br />
@@ -57,13 +55,11 @@ QTD Sales <br />
 Total Reviews <br />
 Total Products Sold <br />
 
-
 ## 4. Dashboard Development
 Added KPI cards for important metrics <br />
 Built trend charts (Monthly & Weekly) <br />
 Added category and product-level charts <br />
 Inserted slicers for interactive filtering <br />
-
 
 # Insights Generated
 Best-performing categories by sales <br />
