@@ -38,24 +38,24 @@ A modern, dark-themed dashboard layout with neat visuals, KPI cards, and easy na
 
 
 # Steps Performed
-## 1. Data Cleaning & Preparation
+### 1. Data Cleaning & Preparation
 Removed duplicates and blank values <br />
 Standardized product names and categories <br />
 Created a Date Table <br />
 Performed Power Query transformations <br />
 Built relationships between tables <br />
 
-## 2. Data Modeling
+### 2. Data Modeling
 Applied Star Schema <br />
 Created Fact (Sales) and Dimension (Products, Date) tables <br />
 
-## 3. DAX Measures
+### 3. DAX Measures
 YTD Sales <br />
 QTD Sales <br />
 Total Reviews <br />
 Total Products Sold <br />
 
-## 4. Dashboard Development
+### 4. Dashboard Development
 Added KPI cards for important metrics <br />
 Built trend charts (Monthly & Weekly) <br />
 Added category and product-level charts <br />
